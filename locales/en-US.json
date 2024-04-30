@@ -1,0 +1,7 @@
+{
+  "hello": "Hello",
+  "welcome_message": "Welcome to our application!",
+  "faq_added": "Question successfully added",
+  "faq_deleted": "Question successfully deleted",
+  "faq_updated": "Question successfully updated"
+}
